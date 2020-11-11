@@ -5,7 +5,7 @@
 #### 팀원간의 공유 및 공동작업에 용이
 #### Repositories
 저장폴더
-### [\<mark>] Cimmits
+### [\<Cimmits>]
 파일 변경을 기록
 Branches
 나무의 가지
